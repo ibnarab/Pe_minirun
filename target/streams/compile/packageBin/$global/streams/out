@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\pe_minirun_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\multi_sim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\multi_sim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\constants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\constants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\multi_sim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\multi_sim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\read_write.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\read_write.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\constants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\constants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IngestionsPe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\IngestionsPe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\read_write$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\read_write$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fonctions\utils$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\fonctions\utils$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IngestionsPe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DIOP028957\IdeaProjects\Pe_minirun\target\scala-2.11\classes\IngestionsPe.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
